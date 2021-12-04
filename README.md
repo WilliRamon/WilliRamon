@@ -6,7 +6,7 @@
 - 💻 I'm studying Web Development and Software Engineering
 - 🎮 Ask me about games and what I thought of The Last of Us - Part 2
 
-<div align="center">
+<div align="justify">
   <a href="https://github.com/WilliRamon">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilliRamon&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliRamon&layout=compact&langs_count=7&theme=radical"/>
