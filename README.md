@@ -1,4 +1,4 @@
-### Hey guys! I am Willi Ramon
+### Hey, everyone! I am Willi Ramon
 
 
 
