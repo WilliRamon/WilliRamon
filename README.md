@@ -2,8 +2,8 @@
 
 
 
-- ✨ Looking for an opportunity to work with technology
-- 💻 I'm studying Web Development and Software Engineering
+- ✨ Have you looked at the sky today?
+- 💻 Java developer
 - 🎮 Ask me about games and what I thought of The Last of Us - Part 2
 
 <div align="center">
