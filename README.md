@@ -35,6 +35,6 @@
   <a href="https://www.linkedin.com/in/willi-sabino/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   ![Snake animation](https://github.com/WilliRamon/WilliRamon/blob/output/github-contribution-grid-snake.svg)
-  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=WilliRamon&repo=WilliRamon&theme=react)](https://github.com/WilliRamon/WilliRamon)
-  
+  <!--[![readme](https://github-readme-stats.vercel.app/api/pin/?username=WilliRamon&repo=WilliRamon&theme=react)](https://github.com/WilliRamon/WilliRamon)
+  -->
 </div>
